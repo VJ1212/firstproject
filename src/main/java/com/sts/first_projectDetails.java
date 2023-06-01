@@ -7,7 +7,7 @@ public class first_projectDetails {
 		 int b=20;
 		  int sum=a+b;
 		  System.out.println(sum);
-		  System.out.println(a);
+		  System.out.println(b);
 
 	}
 
